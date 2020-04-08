@@ -1,0 +1,1 @@
+So, we will take he Foursquare location data for all neighbourhoods in both cities. We will gather data on all vanues, preprocces it, so we have the mean amount of all vanues and cluster neighbourhoods in both cities.  The final dataset will have the data on all vanues that are located in neighbourhoods. This will allow us to make a proper clustering.

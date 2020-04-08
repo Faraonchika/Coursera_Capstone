@@ -1,0 +1,5 @@
+Company office is located in one of the neighbourhood in New York. But because of business reasons stakeholders decided to move the office to Berlin. People are used to the infrastructure that they had in New York neighbourhood and they want to feel the same level of comfort in Berlin. 
+So, the target audience - company stakeholders and employees.
+The problem - selecting the most similar neighbourhood to New York neighbourhood in Berlin.
+The main reason - having the same infrastructure and the same level of comfort.
+We will need to leverage the Foursquare location data for all neighbourhoods in both cities to make the right decision.
